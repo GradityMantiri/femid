@@ -3,12 +3,12 @@ const Body = () => {
         <div className="resume">
   <div className="resume_left">
     <div className="resume_profile">
-      <img src="https://i.imgur.com/eCijVBe.png" alt="profile_pic" />
+      <img src="https://github.com/GradityMantiri/femid/blob/main/src/assets/Untitled%20design.png?raw=true" alt="profile_pic" />
     </div>
     <div className="resume_content">
       <div className="resume_item resume_info">
         <div className="title">
-          <p className="bold">stephen colbert</p>
+          <p className="bold">Gradity Mantiri</p>
           <p className="regular">Designer</p>
         </div>
         <ul>
@@ -17,7 +17,7 @@ const Body = () => {
               <i className="fas fa-map-signs" />
             </div>
             <div className="data">
-              21 Street, Texas <br /> USA
+              19 Street, Texas <br /> USA
             </div>
           </li>
           <li>
@@ -33,7 +33,7 @@ const Body = () => {
               <i className="fas fa-envelope" />
             </div>
             <div className="data">
-              stephen@gmail.com
+              Gradity@gmail.com
             </div>
           </li>
           <li>
@@ -41,7 +41,7 @@ const Body = () => {
               <i className="fab fa-weebly" />
             </div>
             <div className="data">
-              www.stephen.com
+              www.Gradity.com
             </div>
           </li>
         </ul>
@@ -109,7 +109,7 @@ const Body = () => {
             </div>
             <div className="data">
               <p className="semi-bold">Facebook</p>
-              <p>Stephen@facebook</p>
+              <p>Gradity@facebook</p>
             </div>
           </li>
           <li>
@@ -118,7 +118,7 @@ const Body = () => {
             </div>
             <div className="data">
               <p className="semi-bold">Twitter</p>
-              <p>Stephen@twitter</p>
+              <p>Gradity@twitter</p>
             </div>
           </li>
           <li>
@@ -127,7 +127,7 @@ const Body = () => {
             </div>
             <div className="data">
               <p className="semi-bold">Youtube</p>
-              <p>Stephen@youtube</p>
+              <p>Gradity@youtube</p>
             </div>
           </li>
           <li>
@@ -136,7 +136,7 @@ const Body = () => {
             </div>
             <div className="data">
               <p className="semi-bold">Linkedin</p>
-              <p>Stephen@linkedin</p>
+              <p>Gradity@linkedin</p>
             </div>
           </li>
         </ul>
